@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "PPNeueMontreal";
+  src: url("/public/fonts/PPNeueMontreal-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPNeueMontreal";
+  src: url("/public/fonts/PPNeueMontreal-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPFragmentGlare";
+  src: url("/public/fonts/PPFragment-GlareMedium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
